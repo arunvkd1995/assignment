@@ -1,0 +1,6 @@
+"_id","Year","Industry_aggregation_NZSIOC","Industry_code_NZSIOC","Industry_name_NZSIOC","Units","Variable_code","Variable_name","Value"
+"5fdf50bafcd7b91dfcba18ba","2019","Level 1","99999","All industries","Dollars (millions)","H01","Total income","1"
+"5fdf50bafcd7b91dfcba18bb","2019","Level 1","99999","All industries","Dollars (millions)","H04","Sales","2"
+"5fdf50bafcd7b91dfcba18bc","2019","Level 1","99999","All industries","Dollars (millions)","H05","Interest","3"
+"5fdf50bafcd7b91dfcba18bd","2019","Level 1","99999","All industries","Dollars (millions)","H07","Non-operating income","4"
+"5fdf50bafcd7b91dfcba18be","2019","Level 1","99999","All industries","Dollars (millions)","H08","Total expenditure","5"
